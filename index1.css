@@ -1,0 +1,17 @@
+div{
+    /*border: solid black;*/
+        margin: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.a,.b,.c,.d{
+    width: 200px;
+    height: 700px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    text-align: justify;
+}
+img{width: 100%;}
+h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
